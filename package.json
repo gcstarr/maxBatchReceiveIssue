@@ -1,0 +1,9 @@
+{
+  "name": "maxbatchreceiveissue",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@azure/service-bus": "Azure/azure-service-bus-node#99b6bff"
+  }
+}
